@@ -2,7 +2,7 @@ name: CI-CD BootcampCLT
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 jobs:
   ci:
